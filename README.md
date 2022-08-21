@@ -1,7 +1,7 @@
 # UtilityConstruction
 Utility Construction - Live Project
 
-Complete project located in UtilityConstructionProject.xd
+Complete project located in UtilityConstructionProject.xd - use this file to view all projects on one artboard.
 
 All the files in this repo were created by myself during a 2 week live project as part of The Tech Academy's UI/UX Bootcamp. The purpose of this project
 was to expose students to a real life example of what the workplace will be like, such as working on a team, using repositories, working with a project that's already in progress, and working with other people's materials.
